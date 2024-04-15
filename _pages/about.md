@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Alex Kroitor"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,6 +14,12 @@ I am from Montreal (the Plateau, near le Mont Royal), where I did my undergrad a
 My office is MC 5462.
 
 My email is: apkroito[at]uwaterloo[dot]ca
+
+Mathematical Friends
+=====
+Here is a list of various friends and their websites (in no particular order).
+
+[Celeste Groux](celestejasmine.github.io)
 
 <!---
 Map to Office

@@ -1,9 +1,9 @@
 ---
 title: "Lattice Path Enumeration Through ACSV"
 collection: seminar talks
-type: "Conference proceedings talk"
+type: "Talk"
 permalink: /talks/2024-04-11-seminar-talk
-venue: "University of Waterloo, department of Combinatorics and Optimization"
+venue: "University of Waterloo, Department of Combinatorics and Optimization"
 date: 2024-04-11
 location: "Waterloo, Ontario"
 ---

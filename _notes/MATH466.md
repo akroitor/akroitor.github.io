@@ -4,4 +4,4 @@ excerpt: "A set of TeXd up notes for MATH466 offered at McGill University. Taugh
 collection: notes
 ---
 
-These are the typed up notes for the Honours Complex Analysis course taught at McGill University. The latest pdf of the notes is available [here](/files/MATH466.pdf).
+These are the typed up notes for the Fall 2020 instance of the Honours Complex Analysis course taught at McGill University. The latest pdf of the notes is available [here](/files/MATH466.pdf).

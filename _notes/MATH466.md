@@ -4,4 +4,4 @@ excerpt: "A set of TeXd up notes for MATH466 offered at McGill University. Taugh
 collection: notes
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+These are the typed up notes for the Honours Complex Analysis course taught at McGill University. The latest pdf of the notes is available [here](/files/MATH466.pdf).

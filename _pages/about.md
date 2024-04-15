@@ -19,7 +19,7 @@ Mathematical Friends
 =====
 Here is a list of various friends and their websites (in no particular order).
 
-[Celeste Groux](celestejasmine.github.io)
+[Celeste Groux](https://www.celestejasmine.github.io)
 
 <!---
 Map to Office

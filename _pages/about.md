@@ -13,6 +13,8 @@ I am from Montreal (the Plateau), where I did my undergrad at [McGill University
 
 My office is MC 5462.
 
+My email is: apkroito[at]uwaterloo[dot]ca
+
 <!---
 Map to Office
 # ======

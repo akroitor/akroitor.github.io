@@ -1,5 +1,5 @@
 ---
-title: "Restricted Lattice Walks using Analytic Combinatorics in Several Variables"
+title: "Asymptotics For Lattice Paths Through Analytic Combinatorics"
 collection: conference talks
 type: "Talk"
 permalink: /talks/2023-10-03-conference-talk
@@ -8,6 +8,14 @@ date: 2023-10-03
 location: "Ottawa, Ontario"
 ---
 
-[Link to Abstract](http://example2.com)
+This is a talk I gave at the Canadian Mathematical Society Winter 2023 meeting. The focus of the talk was on the paper that I had submitted on orthant walks, and is meant to be 30 minutes long. Note that this is intended for a more general audience.
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+Abstract
+-----
+
+The topic of lattice path enumeration finds applications in a variety of areas, from queuing theory to statistical physics. Recent work on the behaviour of lattice walks restricted to quadrants combines a combinatorial tool called the kernel method with techniques from the field of analytic combinatorics in several variables (ACSV) to determine asymptotics of a large variety of models. In this talk we describe new results using this framework, going beyond past work by analyzing more pathological saddle-point integrals using new complex analytic techniques. 
+
+Files
+-----
+
+The slides I prepared can be found [here](/files/2023-10-03-conference-talk-slides.pdf)

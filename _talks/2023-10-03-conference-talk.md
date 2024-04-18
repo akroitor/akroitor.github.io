@@ -18,4 +18,4 @@ The topic of lattice path enumeration finds applications in a variety of areas, 
 Files
 -----
 
-The slides I prepared can be found [here](/files/2023-10-03-conference-talk-slides.pdf)
+The slides I prepared can be found [here](/files/2023-10-03-conference-talk-slides.pdf).

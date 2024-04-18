@@ -8,4 +8,13 @@ date: 2024-04-11
 location: "Waterloo, Ontario"
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+This is a talk I was invited to give at the UWaterloo Enumerative Combinatorics seminar. The focus of the talk was on the extension of a 2024 paper by Baryshnikov, Melczer, and Pemantle on analytic combinatorics in hyperplane arrangements.
+
+Abstract
+-----
+
+To be written.
+
+Files
+-----
+The slides I prepared can be found [here](/files/2024-04-11-talk-slides.pdf).

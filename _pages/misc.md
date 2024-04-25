@@ -1,11 +1,7 @@
 ---
-permalink: /misc
 title: "Miscellaneous"
+permalink: /misc
 author_profile: true
-redirect_from:
-  - /misc.html
-  - /miscellaneous/
-  - /miscellaneous.html
 ---
 
 This is a collection of things that have no other home.

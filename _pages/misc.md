@@ -1,6 +1,6 @@
 ---
 title: "Miscellaneous"
-permalink: /misc
+permalink: /misc/
 author_profile: true
 ---
 
